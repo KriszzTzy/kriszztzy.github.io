@@ -1,0 +1,1 @@
+yang nyolong mati aja
