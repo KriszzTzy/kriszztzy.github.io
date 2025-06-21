@@ -33,7 +33,7 @@ nav {
 /* Subscrbe YouTube Tamzidan Mahdiyin */
 
 .logo {
-  color: white;
+  color: cyan;
   font-size: 2rem;
   font-weight: bold;
 }
@@ -49,7 +49,7 @@ nav {
   position: absolute;
   right: 15px;
   top: 10px;
-  color: white;
+  color: cyan;
   display: none;
   font-size: clamp(2.5rem, 0.5rem + 5vw, 3rem);
 }
@@ -60,7 +60,7 @@ nav {
 
 .nav-container .links a {
   font-size: 1.2rem;
-  color: white;
+  color: cyan;
   margin: 0 20px;
   text-decoration: none;
   font-weight: 550;
@@ -91,7 +91,7 @@ nav {
 
 .dropdown .links a {
   display: flex;
-  color: white;
+  color: cyan;
   text-decoration: none;
   padding: 15px 0;
   justify-content: center;
@@ -117,7 +117,7 @@ section {
 }
 
 .main-container .content {
-  color: white;
+  color: cyan;
   width: 40%;
   min-height: 100px;
 }
@@ -177,7 +177,7 @@ section {
   height: 6vh;
   margin: 30px;
   background-color: rgb(18 171 0);
-  color: white;
+  color: cyan;
   border: none;
   outline: none;
   font-size: 120%;
