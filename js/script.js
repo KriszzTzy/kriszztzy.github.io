@@ -12,12 +12,12 @@ function cancel(){
 // Animasi Menulis
 
 const texts = [
-    "DEVELOPER",
-    "YOUTUBER",
-    "DESIGNER"
+    "Developer",
+    "YouTubers",
+    "Designer"
 ]
 
-let speed = 100;
+let speed = 50;
 
 const textElements = document.querySelector(".typewriter-text")
 
